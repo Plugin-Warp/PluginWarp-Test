@@ -16,5 +16,5 @@
     
     
     "Embin" : ["embinutils.js"],
-    "Mistium" : ["Github.js", "Virtual File System.js"],
+    "Mistium" : ["Github.js", "Virtual File System.js"]
 }
