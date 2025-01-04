@@ -14,5 +14,8 @@
     "MrRedstonia": ["counter++.js"],
     "Embin": ["embinutils.js"],
     "Mistium" : ["Github.js", "Virtual File System.js"],
-    "Furina" : ["furina_storage_extension.js"]
+    "Furina" : ["furina_storage_extension.js"],
+    "Softed" : ["gamejolt.js", "itchio.js"],
+    "TheShovel" : ["clouddata-ping.js"],
+    "andysus64" : ["4ndyEncryption.js", "4ndyFilters.js", "4ndyMathComparisons.js", "4ndyMathUtilities.js", "4ndyNormalSussyStuff.js", "4ndyT3xtManagement.js", "4ndyTimeNdateUtilities.js", "4ndyWeather.js", "4ndypages.js"]
 }
