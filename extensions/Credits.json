@@ -14,5 +14,5 @@
     "MrRedstonia": ["counter++.js"],
     "Embin": ["embinutils.js"],
     "Mistium" : ["Github.js", "Virtual File System.js"],
-    "Furina" : ["furina_storage-extension.js"]
+    "Furina" : ["furina_storage_extension.js"]
 }
