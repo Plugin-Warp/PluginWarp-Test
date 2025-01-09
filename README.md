@@ -15,7 +15,7 @@
 ## Explore  
 
 Discover the full collection at the **PluginWarp Website**:  
-👉 **[pluginwarp.github.io](https://pluginwarp.github.io)**  
+👉 **[Here!](https://plugin-warp.github.io/PluginWarp)**  
 
 ---
 
@@ -33,7 +33,7 @@ Discover the full collection at the **PluginWarp Website**:
 
 If you know of a TurboWarp plugin that isn't included in PluginWarp, let us know! You can contribute by:  
 
-1. Suggesting the plugin via the **[GitHub Issues](https://github.com/pluginwarp/pluginwarp/issues)** page.  
+1. Suggesting the plugin via the **[GitHub Issues](https://github.com/plugin-warp/pluginwarp/issues)** page.  
 2. Sharing details or links to the plugin for review.  
 
 This project is focused on collecting and sharing, not creating, so plugin authorship credits go to their respective creators.  
@@ -42,7 +42,7 @@ This project is focused on collecting and sharing, not creating, so plugin autho
 
 ## License  
 
-The PluginWarp collection is shared under the [MIT License](LICENSE). Each individual plugin is subject to its own license as provided by its creator.  
+The PluginWarp collection is shared under the [PW License](LICENSE). Each individual plugin is subject to its own license as provided by its creator.  
 
 ---
 
