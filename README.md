@@ -1,6 +1,6 @@
 # PluginWarp  
 
-**PluginWarp** is a curated collection of over **240+ TurboWarp plugins**, gathered from across the community to enhance and extend the functionality of the TurboWarp Scratch-based editor. Whether you're looking for new tools, creative enhancements, or utilities, PluginWarp brings them all together in one place.  
+**Pluginwarp** is a curated collection of over **240+ TurboWarp plugins**, gathered from across the community to enhance and extend the functionality of the TurboWarp Scratch-based editor. Whether you're looking for new tools, creative enhancements, or utilities, PluginWarp brings them all together in one place.  
 
 ---
 
